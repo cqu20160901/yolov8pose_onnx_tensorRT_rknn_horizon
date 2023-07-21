@@ -42,7 +42,7 @@ rknn的板端C++部署参考 [C++部署](https://github.com/cqu20160901/yolov8n_
 
 ## yolov8seg 部署
 
-yolov8seg 部署 [https://github.com/cqu20160901/yolov8seg_onnx_tensorRT_rknn_horizon]
+yolov8seg 部署 [模型+代码](https://github.com/cqu20160901/yolov8seg_onnx_tensorRT_rknn_horizon)
 
 
 
