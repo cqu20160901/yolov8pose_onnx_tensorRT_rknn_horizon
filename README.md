@@ -14,10 +14,13 @@ yolov8pose_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rk
 yolov8pose_horizon：地平线模型、测试（量化）图像、测试结果、转换测试脚本、测试量化后onnx模型脚本
 
 # 测试结果
+
 pytyorch 测试结果
+
 ![image](https://github.com/cqu20160901/yolov8pose_onnx_tensorRT_rknn_horizon/blob/main/yolov8pose_onnx/test_pytorch_result.jpg)
 
 onnx测试结果
+
 ![image](https://github.com/cqu20160901/yolov8pose_onnx_tensorRT_rknn_horizon/blob/main/yolov8pose_onnx/test_onnx_result.jpg)
 
 （注：图片来源coco数据集）
@@ -30,6 +33,7 @@ onnx测试结果
 yolov8 检测部署
 
 ## yolov8 检测部署
+
 部署导出方高效方式参考 [类似本实例中导出检测方式](https://blog.csdn.net/zhangqian_1/article/details/128918268)
 
 官方导出onnx方式板端部署方式参考 [官方导出onnx方式部署](https://blog.csdn.net/zhangqian_1/article/details/130754564) 
@@ -37,6 +41,7 @@ yolov8 检测部署
 rknn的板端C++部署参考 [C++部署](https://github.com/cqu20160901/yolov8n_onnx_tensorRT_rknn_horizon)
 
 ## yolov8seg 部署
+
 yolov8seg 部署 [https://github.com/cqu20160901/yolov8seg_onnx_tensorRT_rknn_horizon]
 
 
