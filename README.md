@@ -30,7 +30,6 @@ onnx测试结果
 导出onnx参考 [yolov8pose 瑞芯微RKNN芯片、地平线Horizon芯片、TensorRT部署](https://blog.csdn.net/zhangqian_1/article/details/131857506)
 
 # 相关链接
-yolov8 检测部署
 
 ## yolov8 检测部署
 
